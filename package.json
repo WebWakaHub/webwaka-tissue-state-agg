@@ -16,5 +16,9 @@
     "offline-first",
     "nigeria-first"
   ],
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@webwaka/cell-aggregate": "workspace:*",
+    "@webwaka/cell-state-store": "workspace:*"
+  }
 }
